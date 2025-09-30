@@ -13,3 +13,7 @@ Basic operations and their corresponding instruction formats:
 More detailed instructions with example commands:
 
 <img width="774" height="295" alt="Screenshot 2025-09-30 at 22 06 16" src="https://github.com/user-attachments/assets/f70f2b63-4ffc-4c3e-9558-14d85eaf1031" />
+
+Branching with if conditions (branch if equal , branch if not equal)
+
+<img width="731" height="279" alt="Screenshot 2025-09-30 at 22 59 47" src="https://github.com/user-attachments/assets/d9cee3f2-f4f1-4d6c-8e3c-885f0f68edda" />
