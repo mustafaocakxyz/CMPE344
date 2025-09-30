@@ -5,3 +5,7 @@ RISC-V Instruction format:
 Difference between R-type, I-type and S-type instruction formats:
 
 ![WhatsApp Image 2025-09-30 at 21 59 03](https://github.com/user-attachments/assets/e02b662a-5d6b-446b-bae6-2595da63b709)
+
+Basic operations and their corresponding instruction formats:
+
+<img width="738" height="289" alt="Screenshot 2025-09-30 at 22 02 17" src="https://github.com/user-attachments/assets/3bfd22d7-7549-4554-bb08-4494ef4e76d9" />
