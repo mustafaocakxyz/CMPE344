@@ -9,3 +9,7 @@ Difference between R-type, I-type and S-type instruction formats:
 Basic operations and their corresponding instruction formats:
 
 <img width="738" height="289" alt="Screenshot 2025-09-30 at 22 02 17" src="https://github.com/user-attachments/assets/3bfd22d7-7549-4554-bb08-4494ef4e76d9" />
+
+More detailed instructions with example commands:
+
+<img width="774" height="295" alt="Screenshot 2025-09-30 at 22 06 16" src="https://github.com/user-attachments/assets/f70f2b63-4ffc-4c3e-9558-14d85eaf1031" />
