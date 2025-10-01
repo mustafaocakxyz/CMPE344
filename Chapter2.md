@@ -36,4 +36,6 @@ Here is a note of converting C code into assembly using branches:
 
 ![WhatsApp Image 2025-10-01 at 21 27 41](https://github.com/user-attachments/assets/007254b3-72f4-42d2-bb98-1cc76c2c2c26)
 
+RISC-V convention for register usage:
 
+<img width="683" height="167" alt="Screenshot 2025-10-01 at 21 35 43" src="https://github.com/user-attachments/assets/9db063a2-20ee-4b8e-83e9-c7ea188dc4f8" />
