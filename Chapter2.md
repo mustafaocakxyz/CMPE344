@@ -31,3 +31,7 @@ The answer is: both of them.
 You can adjust a specific binary number and make it AND with your word. The AND operation will turn everything other than your desired field to zero and your field will prevail.
 
 Also, you can shift left your field to the leftmost position in your binary number to clear all left-side elements. And then shift right the field to the right-most position, clearing all right-side elements. Now, there is only your field and zeros everywhere else.
+
+Here is a note of converting C code into assembly using branches:
+
+![WhatsApp Image 2025-10-01 at 21 27 41](https://github.com/user-attachments/assets/007254b3-72f4-42d2-bb98-1cc76c2c2c26)
