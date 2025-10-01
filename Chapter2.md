@@ -14,6 +14,20 @@ More detailed instructions with example commands:
 
 <img width="774" height="295" alt="Screenshot 2025-09-30 at 22 06 16" src="https://github.com/user-attachments/assets/f70f2b63-4ffc-4c3e-9558-14d85eaf1031" />
 
+Logical operations in RISC-V
+
+<img width="721" height="241" alt="Screenshot 2025-10-01 at 20 59 04" src="https://github.com/user-attachments/assets/aea6589a-b852-4ce4-8343-5d36b16c6dce" />
+
 Branching with if conditions (branch if equal , branch if not equal)
 
 <img width="731" height="279" alt="Screenshot 2025-09-30 at 22 59 47" src="https://github.com/user-attachments/assets/d9cee3f2-f4f1-4d6c-8e3c-885f0f68edda" />
+
+Fancy question:
+
+<img width="430" height="135" alt="Screenshot 2025-10-01 at 21 07 41" src="https://github.com/user-attachments/assets/6fe47723-2da1-4675-93c3-16c42752c9b3" />
+
+The answer is: both of them.
+
+You can adjust a specific binary number and make it AND with your word. The AND operation will turn everything other than your desired field to zero and your field will prevail.
+
+Also, you can shift left your field to the leftmost position in your binary number to clear all left-side elements. And then shift right the field to the right-most position, clearing all right-side elements. Now, there is only your field and zeros everywhere else.
