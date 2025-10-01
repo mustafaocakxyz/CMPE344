@@ -35,3 +35,5 @@ Also, you can shift left your field to the leftmost position in your binary numb
 Here is a note of converting C code into assembly using branches:
 
 ![WhatsApp Image 2025-10-01 at 21 27 41](https://github.com/user-attachments/assets/007254b3-72f4-42d2-bb98-1cc76c2c2c26)
+
+
