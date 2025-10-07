@@ -40,14 +40,13 @@ RISC-V convention for register usage:
 
 <img width="683" height="167" alt="Screenshot 2025-10-01 at 21 35 43" src="https://github.com/user-attachments/assets/9db063a2-20ee-4b8e-83e9-c7ea188dc4f8" />
 
+Example usage for jal and jalr instructions:
+
 ```assembly
 # === Caller (main program) ===
 main:
     li   a0, 5           # Load 5 into a0 (argument)
     jal  ra, double_num   # Call the procedure
-    # after the call returns:
-    # a0 now contains the result (10)
-    # continue executing here
     nop                  # (placeholder for next instructions)
     
 # === Callee (procedure) ===
