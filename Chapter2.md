@@ -55,3 +55,6 @@ double_num:
     jalr x0, 0(ra)       # Return to the address in ra
 ```
 
+**IMPORTANT NOTE:** Main purpose of stack usage is storing the old values of registers in the stack, using those registers temporarily in a procedure, and when we are done with the registers, restoring their old values into them so caller can safely use them.
+
+
