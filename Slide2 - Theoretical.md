@@ -35,3 +35,36 @@ Memory Operands Example:
 
 **Exercise:** RISC-V requires register use. Investigate systems with alternative solutions.
 <img width="692" height="188" alt="Screenshot 2025-10-11 at 17 49 38" src="https://github.com/user-attachments/assets/2e3157dd-a5b7-4ccf-8bb6-9aec25cbcad6" />
+
+Some RISC-V Design Principles (1):
+<img width="583" height="241" alt="Screenshot 2025-10-12 at 10 39 11" src="https://github.com/user-attachments/assets/ab0c1bc6-518f-46a7-914b-7ee31c44335d" />
+
+R-Type, I-Type and S-type instruction examples:
+<img width="782" height="343" alt="Screenshot 2025-10-12 at 10 42 21" src="https://github.com/user-attachments/assets/8bc07fa8-f09f-4ac7-8a65-57401d0064ae" />
+
+RISC-V Design Principles (2):
+<img width="787" height="324" alt="Screenshot 2025-10-12 at 10 43 58" src="https://github.com/user-attachments/assets/c2e51d98-6eca-4557-ad80-65704cda42c1" />
+
+**Exercise:** What could be other costs of similarity among instruction formats?
+<img width="583" height="83" alt="Screenshot 2025-10-12 at 10 46 44" src="https://github.com/user-attachments/assets/a3a683f0-91c8-4406-8264-b32ea610ef8b" />
+
+
+**Exercise:** Find examples where similarity principle wasn't applied.
+<img width="593" height="138" alt="Screenshot 2025-10-12 at 10 46 59" src="https://github.com/user-attachments/assets/13ce5e7a-fd38-4f5b-a43f-14a77799ab57" />
+
+Pseudo-Instructions
+<img width="654" height="239" alt="Screenshot 2025-10-12 at 10 49 17" src="https://github.com/user-attachments/assets/f98bcf24-13b4-442b-aeb1-8ffafe356775" />
+
+**Exercise:** Translate the no-operation (nop) pseudo-instruction.
+<img width="604" height="357" alt="Screenshot 2025-10-12 at 10 49 55" src="https://github.com/user-attachments/assets/f308bc7c-3aaa-405c-ac4e-f49ad21d99f3" />
+
+**Exercise:** What is exactly a LABEL in the assembly code?
+<img width="581" height="305" alt="Screenshot 2025-10-12 at 10 52 05" src="https://github.com/user-attachments/assets/be409de7-069c-4a76-aa87-ddf7e000cda8" />
+
+**Exercise:** What is PC-relative addressing? Why address is PC-relative? Why multiples of 2?
+<img width="585" height="721" alt="Screenshot 2025-10-12 at 11 05 57" src="https://github.com/user-attachments/assets/673e377d-e50c-414c-b2ef-6aaa52dcd516" />
+
+**Exercise:** What does the operation link mean and what is the role of rd?
+<img width="599" height="594" alt="Screenshot 2025-10-12 at 11 08 45" src="https://github.com/user-attachments/assets/acedb97d-eb14-4b15-a833-1e2eb215ff3c" />
+
+
