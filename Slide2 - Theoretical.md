@@ -85,3 +85,12 @@ PC-relative Addressing
 <img width="790" height="402" alt="Screenshot 2025-10-12 at 11 15 09" src="https://github.com/user-attachments/assets/35791f03-54a5-4726-80cc-8d2fb0253b28" />
 
 # Procedures
+Leaf procedure example (stack allocation)
+<img width="557" height="418" alt="Screenshot 2025-10-12 at 11 21 04" src="https://github.com/user-attachments/assets/2d478e3f-b49c-48d2-b598-5b178d883a24" />
+
+Stack status:
+<img width="829" height="399" alt="Screenshot 2025-10-12 at 11 21 37" src="https://github.com/user-attachments/assets/5dc0e13b-4106-4a48-95c5-d7acb90d82d4" />
+
+Register conventions for stack usage:
+<img width="315" height="217" alt="Screenshot 2025-10-12 at 11 21 59" src="https://github.com/user-attachments/assets/1a9a95ab-4956-4d20-a5d9-f9ce98ebd376" />
+
