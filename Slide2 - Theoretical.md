@@ -67,4 +67,21 @@ Pseudo-Instructions
 **Exercise:** What does the operation link mean and what is the role of rd?
 <img width="599" height="594" alt="Screenshot 2025-10-12 at 11 08 45" src="https://github.com/user-attachments/assets/acedb97d-eb14-4b15-a833-1e2eb215ff3c" />
 
+## RISC-V Addressing Modes & Summary:
 
+Immediate Addressing
+<img width="589" height="335" alt="Screenshot 2025-10-12 at 11 12 50" src="https://github.com/user-attachments/assets/a9561603-3c12-4628-a06c-15c7db54d238" />
+
+Register Addressing
+<img width="597" height="345" alt="Screenshot 2025-10-12 at 11 13 18" src="https://github.com/user-attachments/assets/4493649e-89fa-42ac-8781-245f60999122" />
+
+Base Addressing
+<img width="591" height="365" alt="Screenshot 2025-10-12 at 11 13 55" src="https://github.com/user-attachments/assets/f9e6fef7-e080-471a-ad4c-3d90c64c00e2" />
+
+PC-relative Addressing
+<img width="598" height="334" alt="Screenshot 2025-10-12 at 11 14 21" src="https://github.com/user-attachments/assets/3d636c58-107b-49b1-ac6b-d7ffa90e9ab6" />
+
+## RISC-V Instruction Formats & Summary:
+<img width="790" height="402" alt="Screenshot 2025-10-12 at 11 15 09" src="https://github.com/user-attachments/assets/35791f03-54a5-4726-80cc-8d2fb0253b28" />
+
+# Procedures
