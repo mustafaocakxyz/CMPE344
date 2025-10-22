@@ -58,3 +58,9 @@ double_num:
 **IMPORTANT NOTE:** Main purpose of stack usage is storing the old values of registers in the stack, using those registers temporarily in a procedure, and when we are done with the registers, restoring their old values into them so caller can safely use them.
 
 
+## Recursive fact() Function in Assembly
+### Code
+![WhatsApp Image 2025-10-22 at 09 08 28](https://github.com/user-attachments/assets/67c20649-1e05-43b7-8e87-474e54622fda)
+
+### Stack & Registers
+![WhatsApp Image 2025-10-22 at 09 08 50](https://github.com/user-attachments/assets/f588cd3b-c372-4e7c-930b-920dd9b553fd)
